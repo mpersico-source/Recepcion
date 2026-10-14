@@ -2953,3 +2953,46 @@ inicio,VQ_QUEUE_NAME,nombre_agente,QCI_ANI,QCI_ANSWERED,QCI_DURATION,QCI_AGENT_D
 2026-10-09 09:28:44,CM cola Recepcion,Camila Mias,1234567890,yes,14,19,33,SIP/251
 2026-10-09 09:24:13,CM cola Recepcion,Sabrina Mercado,1234567890,yes,16,109,125,SIP/250
 2026-10-09 08:01:47,MPC cola 0km,,1234567890,no,56,0,0,
+2026-10-13 17:36:46,CM cola Recepcion,Sabrina Mercado,1234567890,yes,5,62,67,SIP/250
+2026-10-13 17:05:57,CM cola 0km,Sabrina Mercado,1234567890,yes,9,56,65,SIP/250
+2026-10-13 17:01:25,CM cola Recepcion,Sabrina Mercado,1234567890,yes,107,50,157,SIP/250
+2026-10-13 16:53:56,MPC cola Recepcion,Agustina Vargas,1234567890,yes,10,64,74,SIP/255
+2026-10-13 16:38:39,MPC cola Recepcion,Agustina Vargas,1234567890,yes,15,92,107,SIP/255
+2026-10-13 16:11:35,MPC cola Recepcion,Agustina Vargas,1234567890,yes,9,91,100,SIP/255
+2026-10-13 16:08:01,CM cola 0km,Camila Mias,1234567890,yes,7,86,93,SIP/251
+2026-10-13 15:57:28,CM cola 0km,,1234567890,no,13,0,0,
+2026-10-13 15:53:13,MPC cola Recepcion,Agustina Vargas,1234567890,yes,15,33,48,SIP/255
+2026-10-13 15:50:10,MPC cola 0km,,1234567890,no,2,0,0,
+2026-10-13 15:40:33,MPC cola Recepcion,Agustina Vargas,1234567890,yes,24,61,85,SIP/255
+2026-10-13 15:09:11,MPC cola 0km,,1234567890,no,41,0,0,
+2026-10-13 15:04:45,CM cola 0km,Sabrina Mercado,1234567890,yes,10,201,211,SIP/250
+2026-10-13 14:54:51,MPC cola 0km,Agustina Vargas,1234567890,yes,5,99,104,SIP/255
+2026-10-13 14:35:27,CM cola Usados,Camila Mias,1234567890,yes,15,84,99,SIP/251
+2026-10-13 14:22:49,MPC cola Recepcion,Agustina Vargas,1234567890,yes,10,71,81,SIP/255
+2026-10-13 14:22:19,CM cola Recepcion,Sofia Montaño,656,yes,2,49,51,SIP/656
+2026-10-13 12:37:01,CM cola 0km,Camila Mias,1234567890,yes,5,95,100,SIP/251
+2026-10-13 12:35:45,CM cola Recepcion,,1234567890,no,25,0,0,
+2026-10-13 12:27:26,CM cola 0km,Camila Mias,1234567890,yes,81,71,152,SIP/251
+2026-10-13 12:25:27,CM cola 0km,Sabrina Mercado,1234567890,yes,13,121,134,SIP/250
+2026-10-13 12:20:45,MPC cola 0km,,1234567890,no,1,0,0,
+2026-10-13 12:18:03,CM cola Recepcion,Camila Mias,1234567890,yes,15,29,44,SIP/251
+2026-10-13 12:16:55,CM cola 0km,Sabrina Mercado,Anonymous,yes,9,83,92,SIP/250
+2026-10-13 12:00:22,MPC cola Recepcion,Agustina Vargas,1234567890,yes,9,30,39,SIP/255
+2026-10-13 11:06:30,MPC cola 0km,Agustina Vargas,1234567890,yes,65,56,121,SIP/255
+2026-10-13 10:33:38,CM cola Recepcion,Camila Mias,1234567890,yes,6,21,27,SIP/251
+2026-10-13 10:31:06,CM cola Recepcion,Camila Mias,1234567890,yes,4,57,61,SIP/251
+2026-10-13 10:28:44,CM cola Recepcion,Sabrina Mercado,1234567890,yes,3,26,29,SIP/250
+2026-10-13 10:21:37,CM cola Recepcion,Sabrina Mercado,1234567890,yes,4,29,33,SIP/250
+2026-10-13 10:14:30,CM cola Recepcion,Camila Mias,1234567890,yes,3,4,7,SIP/251
+2026-10-13 10:04:21,CM cola Recepcion,Sabrina Mercado,1234567890,yes,4,25,29,SIP/250
+2026-10-13 09:58:23,MPC cola Recepcion,Agustina Vargas,1234567890,yes,5,64,69,SIP/255
+2026-10-13 09:52:58,CM cola 0km,Sabrina Mercado,1234567890,yes,6,225,231,SIP/250
+2026-10-13 09:38:42,CM cola Recepcion,Sabrina Mercado,1234567890,yes,4,33,37,SIP/250
+2026-10-13 09:21:30,CM cola Recepcion,Camila Mias,1234567890,yes,3,27,30,SIP/251
+2026-10-13 09:19:25,MPC cola 0km,Agustina Vargas,1234567890,yes,12,50,62,SIP/255
+2026-10-13 08:25:55,CM cola Recepcion,Camila Mias,1234567890,yes,11,29,40,SIP/251
+2026-10-13 08:23:35,CM cola Recepcion,Camila Mias,1234567890,yes,4,52,56,SIP/251
+2026-10-13 08:19:58,CM cola Recepcion,Camila Mias,1234567890,yes,56,75,131,SIP/251
+2026-10-13 08:18:00,CM cola Recepcion,Camila Mias,1234567890,yes,3,21,24,SIP/251
+2026-10-13 08:13:16,CM cola Recepcion,Camila Mias,1234567890,yes,5,14,19,SIP/251
+2026-10-13 08:01:35,CM cola Recepcion,Camila Mias,1234567890,yes,3,46,49,SIP/251
